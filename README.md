@@ -18,7 +18,7 @@ This project demonstrates an end-to-end data analytics workflow using **SQL for 
 
 ## Interactive Tableau Dashboard
 
-### [CLICK HERE TO EXPLORE THE LIVE DASHBOARD](https://public.tableau.com/app/profile/chaisha.gallage/viz/NetflixContentAnalyticsPortfolioProject/Dashboard1)
+### ![Netflix Content Analytics Dashboard](netflix_dashboard.svg)(https://public.tableau.com/app/profile/chaisha.gallage/viz/NetflixContentAnalyticsPortfolioProject/Dashboard1)
 
 The interactive Tableau dashboard includes five visualizations:
 
